@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c30665d8-4d4e-4790-85cf-06193c3d1468" name="Changes" comment="[IMP] Change dev properties to env vars">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/PlatziMarketApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/domain/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/domain/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/domain/Purchase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/domain/PurchaseItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/domain/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/domain/repository/PurchaseRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/domain/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/domain/service/PurchaseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/persistence/CompraRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/persistence/ProductoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/persistence/crud/ComprasCrudRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/persistence/crud/ProductoCrudRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/persistence/entity/Categoria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/persistence/entity/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/persistence/entity/Compra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/persistence/entity/ComprasProducto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/persistence/entity/ComprasProductoPK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/persistence/entity/Producto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/persistence/mapper/CategoryMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/persistence/mapper/ProductMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/persistence/mapper/PurchaseItemMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/persistence/mapper/PurchaseMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/web/config/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/web/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/platzi/platzi/market/web/controller/PurchaseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-pdn.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/platzi/platzi/market/PlatziMarketApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="platzi-market" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="platzi-market" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="platzi-market" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="platzi-market" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2f4vxvGrQf4vrPVg7ULNNYfAI9a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.platzi-market [:PlatziMarketApplication.main()].executor": "Run",
+    "Gradle.platzi-market [bootJar].executor": "Run",
+    "Gradle.platzi-market [jar].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/artik/dev/platzi-market/platzi-market/build.gradle",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\artik\dev\platzi-market" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.platzi-market [bootJar]">
+    <configuration name="PlatziMarketApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.platzi.platzi.market.PlatziMarketApplication" />
+      <module name="platzi-market.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platzi.platzi.market.web.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="platzi-market [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="env">
+          <map>
+            <entry key="DB_PASSWORD" value="@dmin1234" />
+            <entry key="DB_URL" value="jdbc:mysql://localhost:3306/platzi_market" />
+            <entry key="DB_USER" value="marketAdmin" />
+          </map>
+        </option>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="platzi-market [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.PlatziMarketApplication" />
+      <item itemvalue="Gradle.platzi-market [jar]" />
+      <item itemvalue="Gradle.platzi-market [bootJar]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.platzi-market [bootJar]" />
+        <item itemvalue="Gradle.platzi-market [jar]" />
+        <item itemvalue="Application.PlatziMarketApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c30665d8-4d4e-4790-85cf-06193c3d1468" name="Changes" comment="" />
+      <created>1713073419864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713073419864</updated>
+    </task>
+    <task id="LOCAL-00001" summary="[FT] Add application properties dev and prod">
+      <option name="closed" value="true" />
+      <created>1713758951784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713758951784</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[FT] Add Mysql dependency&#10;[FT] Add mapstruct dependency&#10;[FT] Add Spring boot dependency">
+      <option name="closed" value="true" />
+      <created>1713759074268</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713759074268</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[FT] Add basic structure&#10;[FT] Add entities&#10;[FT] Add Category and Product mapper&#10;[FT] Add relations&#10;[FT] Expose API">
+      <option name="closed" value="true" />
+      <created>1713759160329</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713759160329</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[FT] Add Response Entity to ProductController">
+      <option name="closed" value="true" />
+      <created>1713762931386</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713762931386</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[FT] Add Purchase logic in domain">
+      <option name="closed" value="true" />
+      <created>1714456876442</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714456876442</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[IMP] Change dev properties to env vars">
+      <option name="closed" value="true" />
+      <created>1714457904102</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714457904102</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[FT] Add application properties dev and prod" />
+    <MESSAGE value="[FT] Add Mysql dependency&#10;[FT] Add mapstruct dependency&#10;[FT] Add Spring boot dependency" />
+    <MESSAGE value="[FT] Add basic structure&#10;[FT] Add entities&#10;[FT] Add Category and Product mapper&#10;[FT] Add relations&#10;[FT] Expose API" />
+    <MESSAGE value="[FT] Add Response Entity to ProductController" />
+    <MESSAGE value="[FT] Add Purchase logic in domain" />
+    <MESSAGE value="[IMP] Change dev properties to env vars" />
+    <option name="LAST_COMMIT_MESSAGE" value="[IMP] Change dev properties to env vars" />
+  </component>
+</project>
